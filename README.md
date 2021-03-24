@@ -1,4 +1,4 @@
-# pandas-challenge
+# Pandas-challenge
 
 Heroes of Pymoli Like many others in its genre, the game is free-to-play, but players are encouraged to purchase optional items that enhance their playing experience. As a first task, the company would like you to generate a report that breaks down the game's purchasing data into meaningful insights. Your final report should include each of the following:
 
@@ -46,3 +46,22 @@ Player Count Total Number of Players
   * Purchase Count
   * Item Price
   * Total Purchase Value
+
+## Screenshots
+![image](https://user-images.githubusercontent.com/68937366/112255024-76273580-8c9c-11eb-9687-ff61ba430245.png)
+
+![image](https://user-images.githubusercontent.com/68937366/112255079-89d29c00-8c9c-11eb-919d-d29cfeeaafcb.png)
+
+![image](https://user-images.githubusercontent.com/68937366/112255135-96ef8b00-8c9c-11eb-8c97-1f2e4fa18468.png)
+
+![image](https://user-images.githubusercontent.com/68937366/112255185-abcc1e80-8c9c-11eb-9403-7fd6d731e23c.png)
+
+![image](https://user-images.githubusercontent.com/68937366/112255202-b8507700-8c9c-11eb-9a72-21a825893629.png)
+
+![image](https://user-images.githubusercontent.com/68937366/112255259-cf8f6480-8c9c-11eb-8543-223d95f077e2.png)
+
+
+
+
+
+
